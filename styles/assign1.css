@@ -1,10 +1,22 @@
+.banner{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    text-align: center;
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    margin-inline: auto;
+    margin-top: 50px;
+    border-radius: 16px;
+    background: #070211 0%, rgba(7, 2, 17, 0.00);
+}
 .s-title{
     text-align: center;
     color: #FFF;
     font-family: Merriweather;
     font-size: 32px;
     font-weight: 400;
-    padding: 177px;
+    padding-top: 177px;
 }
 .b-title{
     color: #FFF;
@@ -14,25 +26,13 @@
     font-style: normal;
     font-weight: 900;
     line-height: 95px;
-    padding-top: 10px;
+    padding-bottom: 166;
     padding-left: 344px;
     padding-right: 344px;
     
 }
 
-.banner{
-    width: 1320px;
-    height: 600px;
-    flex-shrink: 0;
-    text-align: center;
-    background-image: url('../images/Banner\ Image.png');
-    background-repeat: no-repeat;
-    margin-left: 140px;
-    margin-right: 140px;
-    margin-top: 50px;
-    border-radius: 16px;
-    background: #070211 0%, rgba(7, 2, 17, 0.00);
-}
+
 /* mid section */
 .div-one{
     text-align: center;
@@ -56,6 +56,6 @@
     color: #070211;
     text-align: center;
     font-family: Inter;
-    font-size: 48px;
+    font-size: 35px;
     font-weight: 700;
 }
