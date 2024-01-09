@@ -59,3 +59,120 @@
     font-size: 35px;
     font-weight: 700;
 }
+.divtwo-title{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
+}
+.paragraph{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.div-two{
+    
+    text-align: center;
+    margin-inline: auto;
+    display: flex;
+}
+.section-two{
+    
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+
+}
+.image-cl{
+    padding-left: 862px;
+    padding-top: 68px;
+    padding-right: 138px;
+    padding-bottom: 67px;
+}
+.div-three{
+    color: #070211;
+    font-family: Inter;
+
+    text-transform: capitalize;
+    background-color: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
+    padding-top: 100px;
+    padding-left: 350px;
+    padding-right: 351px;
+    padding-bottom: 150px;
+}
+.uniq{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    line-height: 56px; /* 175% */
+    text-transform: capitalize;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 608px;
+    margin-right: 609px;
+    margin-bottom: 110px;
+}
+.section-three{
+    margin-top: 120px;
+    text-align: center;
+    
+    margin-left: 140px;
+    margin-right: 140px;
+    background-color: antiquewhite
+
+}
+.left-title-one{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.left-title-two{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.left-paragraph{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+.section-four{
+    display: flex;
+    background: #FFF;
+    margin-inline: auto;
+}
+.block-one{
+    padding-left: 140px;
+
+}
+.block-two{
+    padding-left: 652px;
+    padding-right: 583px;
+}
+.block-three{
+
+}
+
+
+
